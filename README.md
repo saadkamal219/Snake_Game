@@ -1,4 +1,4 @@
-![Group 115(1)](https://user-images.githubusercontent.com/87926244/236484355-d718dd28-2c61-44ab-a038-ee83b508383a.png)
+![Group 115(1) 1](https://user-images.githubusercontent.com/87926244/236485200-c4f2361b-78b4-455e-b830-880561e8062c.png)
 
 # Snake_Game
 
